@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi! I am Gaurav bothra. Currently I'm pursing master in computer application from NIT, Raipur.
 And my temper is high.
+=======
+Hi! I am Gaurav Bothra. Currently I'm pursing master in computer application from NIT, Raipur.
+
+>>>>>>> 9096c77d2e24bfdf2d1ab28b571d510b6370cab8
